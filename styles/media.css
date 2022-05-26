@@ -73,6 +73,12 @@
     .main__item {
         margin-right: 15px;
     }
+    .main__item-img {
+        width: 100%; 
+    }
+    .main__item {
+        width: 100%;
+    }
 }
 @media(max-width: 400px) {
     .header__content-title {

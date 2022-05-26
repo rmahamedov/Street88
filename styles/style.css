@@ -264,6 +264,9 @@ body {
 .main__map {
     width: 100%;
 }
+.main__item-img {
+    width: 100%;
+}
 
 /* MAIN END */
 
